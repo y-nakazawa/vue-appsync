@@ -1,4 +1,4 @@
-# vue_aries
+# vue_appsync
 
 ## Project setup
 ```
